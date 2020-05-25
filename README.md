@@ -10,9 +10,6 @@
   Talk to J.A.R.V.I.S : What does JARVIS stand for?
   J.A.R.V.I.S : JARVIS stands for Just A Rather Very Intelligent System
 
-All conversation is only for the hardcoded patterns, which are quite few. Can be easily extended to add AIML scripts of ALICE and other existing AIs.
-
-
 <Tells time.>
   Talk to J.A.R.V.I.S : what time is it?
   J.A.R.V.I.S : The time is 4 43 am
